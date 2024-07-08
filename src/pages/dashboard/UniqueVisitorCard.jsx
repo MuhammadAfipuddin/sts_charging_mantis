@@ -30,7 +30,7 @@ export default function UniqueVisitorCard() {
               color={slot === 'month' ? 'primary' : 'secondary'}
               variant={slot === 'month' ? 'outlined' : 'text'}
             >
-              Month
+              Month crot
             </Button>
             <Button
               size="small"
